@@ -1,4 +1,6 @@
 # PYTHON:
+If you use these, make sure you have a backup of your spreadsheets first. You will have to edit the locations of the files on your PC. Make sure you understand what these are doing before you run them on your PC.
+
 ## The following scripts use PANDAS:
 
 - **COMPARE-SPREADSHEET&DIRECTORY.py** Compares files listed in an Excel column against files in a directory tree and writes the report to a text file. Use the default "Sheet1" (which is 0, or start with a fresh spreadsheet) and make sure there is a header "Filename."
