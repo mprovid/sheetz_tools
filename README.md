@@ -1,5 +1,5 @@
 # PYTHON:
-If you use these, make sure you have a backup of your spreadsheets first. You will have to edit the locations of the files on your PC. Make sure you understand what these are doing before you run them on your PC.
+Make sure you have a backup of your spreadsheets before running any these scripts. You will have to edit the location of your files on your PC in the scripts. Make sure you understand what these scripts are doing before you run them on your PC.
 
 ## The following scripts use PANDAS:
 
